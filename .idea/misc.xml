@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task1_1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task1_14.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task2_1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task2_14.xml" value="0.140625" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task2_14_another.xml" value="0.1640625" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task2_1_another(crutch).xml" value="0.1640625" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task2_1_another.xml" value="0.140625" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task2_2.xml" value="0.1265625" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task3_5.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task3_5_another.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task_1.xml" value="0.165625" />
+        <entry key="..\:/Users/dburyanov/AndroidStudioProjects/Lab1/app/src/main/res/layout/task_14.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
